@@ -40,4 +40,6 @@ Obs: nesse novo algoritmo, o dado escolhido será chamado medóide.
 Por que o algoritmo de DBScan é mais robusto à presença de outliers?
 Assim que terminar, salve o seu arquivo PDF e poste no Moodle. Utilize o seu nome para nomear o arquivo, identificando também a disciplina no seguinte formato: “nomedoaluno_nomedadisciplina_pd.PDF”.
 
-Boa sorte!
+Boa sorte! 
+
+ 
